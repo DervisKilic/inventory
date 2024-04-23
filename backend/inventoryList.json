@@ -1,0 +1,442 @@
+[
+  {
+    "id": "0",
+    "name": "GoPro Hero 12",
+    "serial": "????",
+    "description": "GoPro 12 + laddare ink 2 batterier + sugpropp ",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "16/04/2024",
+    "imagePath": "http://localhost:5000/uploads/inventoryImage-1713771652269.jpeg"
+  },
+  {
+    "id": "1",
+    "name": "GoPro Hero 12",
+    "serial": "????",
+    "description": "GoPro 12 + laddare ink 2 batterier + sugpropp ",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "16/04/2024",
+    "imagePath": "http://localhost:5000/uploads/inventoryImage-1713852964832.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "GoPro Hero 12",
+    "serial": "????",
+    "description": "GoPro 12 + laddare ink 2 batterier + sugpropp ",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "16/04/2024",
+    "imagePath": "http://localhost:5000/uploads/inventoryImage-1713852974681.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "GoPro Hero 5",
+    "serial": "????",
+    "description": "GoPro 5 ",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": "http://localhost:5000/uploads/inventoryImage-1713771679936.jpeg"
+  },
+  {
+    "id": "afciwaugm",
+    "name": "Laptop Yoga 900",
+    "serial": "",
+    "description": "Orange yoga laptop without battery, broken audio",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "9yjm2blwb",
+    "name": "Laptop Yoga 3 pro",
+    "serial": "",
+    "description": "Silver yoga laptop",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "dhynerg0p",
+    "name": "Intel NUC",
+    "serial": "",
+    "description": "Nuc, i5, 8gb, HDMI Broken!!!",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "7yrrt3ekq",
+    "name": "Laptop Lenovo ",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "l7z2iez0p",
+    "name": "Desktop PC",
+    "serial": "",
+    "description": "with gtx1080",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "89owns8b6",
+    "name": "Desktop PC",
+    "serial": "",
+    "description": "with rtx2070",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "xliyg9772",
+    "name": "Microsoft Surface Pro 7",
+    "serial": "19514102353",
+    "description": "i5, 128Gb, 8Gb Ram, PASSWORD: 0000",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "z1ljqzkkc",
+    "name": "Android tablet (older Nexus things)",
+    "serial": "",
+    "description": "Old android tablets. Useful for low performance apps only",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "ufsgb5xl8",
+    "name": "Android tablet (older Nexus things)",
+    "serial": "",
+    "description": "Old android tablets. Useful for low performance apps only",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "4nl6ywf7z",
+    "name": "Android tablet (older samsung)",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "l39hyil8f",
+    "name": "Android tablet 1 (Samsung TabS5e)",
+    "serial": "R52N20CBTTN",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "k0squotai",
+    "name": "Android tablet 1 (Samsung TabS5e)",
+    "serial": "R52M80RFS8M",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "07eqngj6s",
+    "name": "Android tablet 1 (Samsung TabS5e)",
+    "serial": "R52N20CBWWL",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "ziu6058d4",
+    "name": "Apple Pencil",
+    "serial": "",
+    "description": "Missing?",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "ql9v3b20a",
+    "name": "Apple Pencil",
+    "serial": "",
+    "description": "Missing?",
+    "purchasedWithin": "UX",
+    "currentOwner": "Hannah Mazetti",
+    "dateBorrowed": "8/19/2022",
+    "imagePath": ""
+  },
+  {
+    "id": "1k57uf2dm",
+    "name": "Ipad Pro ",
+    "serial": "DLXX50BFJ262",
+    "description": "iPad Pro (12.9-inch) (2nd generation) 2017, PASSWORD: 000000",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "jdktpxa0v",
+    "name": "Ipad Pro ",
+    "serial": "",
+    "description": "iPad Pro (12.9-inch) (2nd generation) 2017, PASSWORD: 000000",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "00z6bwe6s",
+    "name": "Arduino Uno",
+    "serial": "",
+    "description": "used for sws bridge for dc1e and ef1e",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "iahpquo2z",
+    "name": "Amazon alexa mini",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "sgkv432z6",
+    "name": "Tobii eye tracker",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "abjvibrx0",
+    "name": "Tobii eyeX controller",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "mt1sz7r5g",
+    "name": "LG LG 65\" TV on movable tv mounts",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "tmyen785e",
+    "name": "Samsung 65\" TV on movable tv mounts",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "3x5z8a74d",
+    "name": "Samsung 65\" TV on movable tv mounts",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "ktnya2spx",
+    "name": "12.3\" DIM display",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "Simon Adielsson",
+    "dateBorrowed": "06/02/2024",
+    "imagePath": ""
+  },
+  {
+    "id": "3684hiutz",
+    "name": "12.3\" DIM display",
+    "serial": "",
+    "description": "No HDMI Controller Board",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "e65vp7dm9",
+    "name": "12.3\" DIM display",
+    "serial": "",
+    "description": "No HDMI Controller Board",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "umeo5k5la",
+    "name": "12.3\" DIM display",
+    "serial": "",
+    "description": "No HDMI Controller Board",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "eyo463nuc",
+    "name": "HUD",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "At Zeekr Design - Robin Johannson ",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "il0ahm4eq",
+    "name": "Logitech g29 Steering wheel",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "07xwx2h3n",
+    "name": "Logitech g29 Steering wheel",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "6u4a3ma6c",
+    "name": "Logitech g29 Steering wheel",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "o8bces7og",
+    "name": "Thrustmaster T300",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "r8orrtaka",
+    "name": "HTC Vive",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "kzs0xqlim",
+    "name": "Garmin Vivoactive 4S",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "rgaxr0f8q",
+    "name": "Garmin Vivoactive 4S",
+    "serial": "",
+    "description": "missing?",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "6g2c41qou",
+    "name": "Occlusion test goggles",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "869jauvtc",
+    "name": "Occlusion test goggles",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "5hxv8uwe8",
+    "name": "Sony Headphones",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "",
+    "dateBorrowed": "",
+    "imagePath": ""
+  },
+  {
+    "id": "fbf2lgapt",
+    "name": "Sony Headphones",
+    "serial": "",
+    "description": "",
+    "purchasedWithin": "UX",
+    "currentOwner": "Sigrid?",
+    "dateBorrowed": "",
+    "imagePath": ""
+  }
+]
